@@ -24,3 +24,6 @@ cv2.imshow('New image',pencil_sketch_IMG)
 cv2.waitKey(0)
 
 
+
+
+
